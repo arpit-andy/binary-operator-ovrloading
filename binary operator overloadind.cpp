@@ -20,7 +20,7 @@ class A
 	{
 		cout<<h<<"hr"<<":";
 		cout<<m<<"min"<<":";
-		cout<<s<<"sec"<<;
+		cout<<s<<"sec";
 	}
 	
 	A operator + (A o)
